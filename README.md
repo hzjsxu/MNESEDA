@@ -1,6 +1,10 @@
 # MNESEDA
 MNESEDA: a prior-guided subgraph representation learning framework for predicting disease-related enhancers.
 
+![alt_text](https://github.com/hzjsxu/MNESEDA/assets/45815139/dad96320-5326-4006-b03d-672ff0a354c9)
+
+
+
 # Requirements:
 - python 3.7.15
 - pytorch 1.12.1
