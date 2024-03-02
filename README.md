@@ -31,5 +31,5 @@ python main.py --data-name ${data_name} --pos-neg-ratio '1_1' --save-results --e
 ```
 
 
-### Note: The code will be public once the paper is accepted.
+### Note: The processed data and code will be public once our webserver is built.
 
